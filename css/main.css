@@ -1,6 +1,3 @@
-*{
-    outline: 1px solid blue;
-}
 
 /*-----------------------------------------HEADER-------*/
 .fondo{
@@ -124,7 +121,7 @@ header{
 .fondo-laptop{
     background: url(../image/sec-2.jpg)no-repeat;
     background-size:cover;
-    height: auto;
+    height: 500px;
    
 }
 
